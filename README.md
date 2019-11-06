@@ -18,10 +18,12 @@ In this series I will bring to you how to code PIC pastile in C all from the beg
 Welcome!
 
 *Hardware*:    Development Boards (OPTIONS):
+
   PicGenios:   [PIC18F4520 chip]( https://loja.microgenios.com.br/produto/kit-picgenios-pic18f4520-com-gravador-usb-microicd-licen-a-compilador-mikroc-pro-for-pic/23507 )                   
-  EasyPIC™ v8:  [PIC18F45K22 chip]( https://www.mikroe.com/easypic )
+ or EasyPIC™ v8:  [PIC18F45K22 chip]( https://www.mikroe.com/easypic )
 
 *Software*:    Development Programmer/Debugger:
+
   [PICkit™ 2]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ) or								 
   [mikroProg suite for PIC]( https://www.mikroe.com/blog/mikroprog-suite-for-pic-version-2-3-1-released )
 
