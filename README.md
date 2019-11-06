@@ -6,8 +6,9 @@ You're more then welcome to visit my Web Pages:
  [Jungletronics](https://medium.com/jungletronics) (Arduino, RPi, PIC, Eagle, Blender, Unity3D, Pixy, and more) 
  [KidsTronics](https://medium.com/kidstronics) (MIT App Inventor, LEGO, Arduino For Kids, and more)
  
-And my [Youtube Channel Playlist](https://www.youtube.com/playlist?list=PLK3PeNcUzb8TwZuXZJgREj5nDbQxRLW_a)
+And youtube playlists: [PIC Serie Enjoyment](https://www.youtube.com/playlist?list=PLK3PeNcUzb8TYBUxpC2Y9xaXN0wBSY2e0) or [PicAsm - Assembler Right Now!!!](https://www.youtube.com/playlist?list=PLK3PeNcUzb8TGekGLilHvHcUw2GUAEIjC) 
 
+/
 ### Why PIC? :heart_eyes:
 PIC (usually pronounced as "pick") is a family of microcontrollers made by [Microchip Technolog](https://en.wikipedia.org/wiki/Microchip_Technology).
 In 2000, Microchip introduced the PIC18 architecture. it has proven to be very popular, with a large number of device variants presently in manufacture. C has become the predominant development language.
