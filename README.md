@@ -24,7 +24,7 @@ Welcome!
 
 **Software**:    Development Programmer/Debugger:
 
-  [PICkit™ 2]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ) or								 
+  [Microchip’s PICkit™ 2]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ) (Microchip’s PICkit™ 3)[https://www.microchip.com/Developmenttools/ProductDetails/PG164130] and the new (MPLAB PICkit™ 4)[https://www.microchip.com/developmenttools/ProductDetails/PG164140] or								 
   [mikroProg suite for PIC]( https://www.mikroe.com/blog/mikroprog-suite-for-pic-version-2-3-1-released )
 
 
