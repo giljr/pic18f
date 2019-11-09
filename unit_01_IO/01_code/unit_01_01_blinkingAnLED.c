@@ -38,7 +38,7 @@
 
 void main() {
                            // For PIC18F45K22
-#ifdef PIC18F45K22
+#ifdef P18F45K22
        ANSELB = 0;         // Config all the PORTB's pins as digital
        ANSELD = 0;         // Config all the PORTD's pins as digital
                            // For PIC18F4520
