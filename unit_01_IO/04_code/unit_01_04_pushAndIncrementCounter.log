@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_01_IO\04_code\unit_01_04_pushAndIncrementCounter.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_01_IO\04_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit_01_04_pushAndIncrementCounter.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	unit_01_04_pushAndIncrementCounter.c
+diagnostics: 122	123	Compiled Successfully	unit_01_04_pushAndIncrementCounter.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+diagnostics: 0	125	Project Linked Successfully	unit_01_04_pushAndIncrementCounter.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'unit_01_04_pushAndIncrementCounter.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 15 nov 2019, 11:33:48	unit_01_04_pushAndIncrementCounter.mcppi

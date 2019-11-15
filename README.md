@@ -43,6 +43,9 @@ Welcome!
 
 [#03_code](unit_01_IO/03_code)#picSeries - [**PIC 18 Push & Debounce!**](https://medium.com/jungletronics/pic-18-push-debounce-6487ea8284b) - *How to deal with DEBOUNCE*     
 
+[#04_code](unit_01_IO/04_code)#picSeries - [**PIC 18 Lighting LEDs In a Row!**](https://medium.com/jungletronics/pic-18-lighting-leds-in-a-row-d6d40b4e58d3) - *How to make a usefull lights' switch*    
+
+
 ##### **Unit - 04 - TMR**
 
 [#10_code](unit_04_TMR/10_code)#picSeries - [**PIC18F4520 - Episode#01**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
