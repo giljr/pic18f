@@ -13,14 +13,14 @@ PIC (usually pronounced as "pick") is a family of microcontrollers made by [Micr
 In 2000, Microchip introduced the PIC18 architecture. it has proven to be very popular, with a large number of device variants presently in manufacture. C has become the predominant development language.
 
 
-In this series I will bring to you how to code PIC pastile in C all from the beginning. 
+In this series I will bring to you how to code PIC pastile in C all from the beginning 'till advanced feature like interruptions;) 
 
 Welcome!
 
 **Hardware**:    Development Boards (OPTIONS):
 
-  PicGenios:  Hardware: [Elect Schema](hardware/) & chip: [PIC18F4520 chip]( https://loja.microgenios.com.br/produto/kit-picgenios-pic18f4520-com-gravador-usb-microicd-licen-a-compilador-mikroc-pro-for-pic/23507 )                  
- or EasyPIC™ v8:  [PIC18F45K22 chip]( https://www.mikroe.com/easypic )
+  PicGenios:  Hardware: [Elect Schema](hardware/) & Chip: [PIC18F4520]( https://loja.microgenios.com.br/produto/kit-picgenios-pic18f4520-com-gravador-usb-microicd-licen-a-compilador-mikroc-pro-for-pic/23507 )                  
+ or EasyPIC™ v8 - Chip: [PIC18F45K22]( https://www.mikroe.com/easypic )
  
 **Compiler**: Compiler IDE:
 
@@ -28,7 +28,7 @@ Welcome!
 
 **Software**:    Development Programmer/Debugger:
 
-  [Microchip’s PICkit™ 2]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ) [Microchip’s PICkit™ 3](https://www.microchip.com/developmenttools/ProductDetails/PG164130)and the new [MPLAB PICkit™ 4](https://www.microchip.com/developmenttools/ProductDetails/PG164140) or								 
+  [Microchip’s PICkit™ 2]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ), [Microchip’s PICkit™ 3](https://www.microchip.com/developmenttools/ProductDetails/PG164130) and the new [MPLAB PICkit™ 4](https://www.microchip.com/developmenttools/ProductDetails/PG164140) or								 
   [mikroProg suite for PIC]( https://www.mikroe.com/blog/mikroprog-suite-for-pic-version-2-3-1-released )
 
 
