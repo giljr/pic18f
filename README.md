@@ -19,13 +19,18 @@ Welcome!
 
 **Hardware**:    Development Boards (OPTIONS):
 
-  PicGenios:   [PIC18F4520 chip]( https://loja.microgenios.com.br/produto/kit-picgenios-pic18f4520-com-gravador-usb-microicd-licen-a-compilador-mikroc-pro-for-pic/23507 )                   
+  PicGenios:  Hardware: [Elect Schema](hardware/) & chip: [PIC18F4520 chip]( https://loja.microgenios.com.br/produto/kit-picgenios-pic18f4520-com-gravador-usb-microicd-licen-a-compilador-mikroc-pro-for-pic/23507 )                  
  or EasyPIC™ v8:  [PIC18F45K22 chip]( https://www.mikroe.com/easypic )
+ 
+**Compiler**: Compiler IDE:
+
+[mikroC PRO for PIC](https://www.mikroe.com/mikroc-pic)
 
 **Software**:    Development Programmer/Debugger:
 
-  [Microchip’s PICkit™ 2]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ) [Microchip’s PICkit™ 3](https://www.microchip.com/Developmenttools/ProductDetails/PG164130])and the new [MPLAB PICkit™ 4](https://www.microchip.com/developmenttools/ProductDetails/PG164140) or								 
+  [Microchip’s PICkit™ 2]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ) [Microchip’s PICkit™ 3](https://www.microchip.com/developmenttools/ProductDetails/PG164130)and the new [MPLAB PICkit™ 4](https://www.microchip.com/developmenttools/ProductDetails/PG164140) or								 
   [mikroProg suite for PIC]( https://www.mikroe.com/blog/mikroprog-suite-for-pic-version-2-3-1-released )
+
 
 
 ### PIC Lessons: How to Start to Program PIC 18 - Step-by-step for Beginners! (2019) :ant:
