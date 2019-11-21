@@ -46,6 +46,8 @@ Welcome!
 
 [#04_code](unit_01_IO/04_code)#picSeries - [**PIC 18 Lighting LEDs In a Row!**](https://medium.com/jungletronics/pic-18-lighting-leds-in-a-row-d6d40b4e58d3) - *How to make a usefull lights' switch*    
 
+[#05_code](unit_01_IO/05_code)#picSeries - [**PIC 18 Chasing LEDs**](https://medium.com/jungletronics/pic-18-chasing-leds-c86ba443e531) - *The net result is that LEDs seem to be chasing each other*    
+
 
 ##### **Unit - 04 - TMR**
 
