@@ -19,8 +19,9 @@ Welcome!
 
 **Hardware**:    Development Boards (OPTIONS):
 
-  PicGenios:  Hardware: [Elect Schema](hardware/) & Chip: [PIC18F4520]( https://loja.microgenios.com.br/produto/kit-picgenios-pic18f4520-com-gravador-usb-microicd-licen-a-compilador-mikroc-pro-for-pic/23507 )                  
- or EasyPIC™ v8 - Chip: [PIC18F45K22]( https://www.mikroe.com/easypic )
+  PicGenios:  Hardware: [Elect. Schema. & Layout](hardware/) & Board: [PICGENIOS]( https://loja.microgenios.com.br/produto/kit-picgenios-pic18f4520-com-gravador-usb-microicd-licen-a-compilador-mikroc-pro-for-pic/23507) & Chip: [PIC18F4520](https://www.microchip.com/wwwproducts/en/PIC18F4520),                   
+ [EasyPIC™ v7](https://www.mikroe.com/easypic-v7)<- Chip: [PIC18F45k22](https://www.microchip.com/wwwproducts/en/PIC18F45K22) or [EasyPIC™ v8](https://www.mikroe.com/easypic)* - Chip: [PIC18F47K42](https://www.microchip.com/wwwproducts/en/PIC18F47K42)
+ (*)if you ask me for my recommendation, buy this one! not tested by J3, though :/ make do with what you have :) (<-)The code here works to this board too via preprocessor directives (plz help me to debug:D)
  
 **Compiler**: Compiler IDE:
 
@@ -28,8 +29,8 @@ Welcome!
 
 **Software**:    Development Programmer/Debugger:
 
-  [Microchip’s PICkit™ 2]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ), [Microchip’s PICkit™ 3](https://www.microchip.com/developmenttools/ProductDetails/PG164130) and the new [MPLAB PICkit™ 4](https://www.microchip.com/developmenttools/ProductDetails/PG164140) or								 
-  [mikroProg suite for PIC]( https://www.mikroe.com/blog/mikroprog-suite-for-pic-version-2-3-1-released )
+  [Microchip’s PICkit™ 2](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/PG164120)* -> [Download:]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ), [Microchip’s PICkit™ 3](https://www.microchip.com/developmenttools/ProductDetails/PG164130) and the new [MPLAB PICkit™ 4](https://www.microchip.com/developmenttools/ProductDetails/PG164140) or								 
+  [mikroProg suite for PIC]( https://www.mikroe.com/blog/mikroprog-suite-for-pic-version-2-3-1-released ) (*)used here therein!
 
 
 
