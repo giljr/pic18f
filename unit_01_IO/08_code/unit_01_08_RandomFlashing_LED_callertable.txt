@@ -1,0 +1,5 @@
+main
+	srand
+	rand
+		srand
+		Mul_32x32_U

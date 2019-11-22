@@ -52,6 +52,8 @@ Welcome!
 
 [#07_code](unit_01_IO/07_code)#picSeries - [**PIC 18 Ambulance Light LEDs**](https://medium.com/jungletronics/pic-18-ambulance-light-95e308d395e3x') - *Algorithm for ambulance-like-flashing-light*    
 
+[#08_code](unit_01_IO/08_code)#picSeries - [**PIC 18 Random Flashing LEDs**](https://medium.com/jungletronics/pic-18-random-flashing-leds-287ce7d4bf7) - *How to generating a random number w/ seed*    
+
 
 ##### **Unit - 04 - TMR**
 
