@@ -56,6 +56,8 @@ Welcome!
 
 [#09_code](unit_01_IO/09_code)#picSeries - [**PIC 18 Internal Weak Pull-Ups**](https://medium.com/jungletronics/pic-18-internal-weak-pull-ups-d825e7991bad) - *How to activate weak-pull-ups-resistors on PIC18*    
 
+[#10_code](unit_01_IO/10_code)#picSeries - [**PIC 18 Button Library**](https://medium.com/jungletronics/pic-18-button-library-9d32491b639e) - *How to use Button Library from mikroC PRO for PIC*    
+
 
 ##### **Unit - 04 - TMR**
 
