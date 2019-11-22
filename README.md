@@ -58,7 +58,7 @@ Welcome!
 
 [#10_code](unit_01_IO/10_code)#picSeries - [**PIC 18 Button Library**](https://medium.com/jungletronics/pic-18-button-library-9d32491b639e) - *How to use Button Library from mikroC PRO for PIC*    
 
-[#11_code](unit_01_IO/11_code)#picSeries - [**PIC 18  Up Down Counter*](https://medium.com/jungletronics/pic-18-up-down-counter-11ce1bf7baab) - *A cool algorithm — making a counter  for PIC18F*    
+[#11_code](unit_01_IO/11_code)#picSeries - [**PIC 18  Up Down Counter**](https://medium.com/jungletronics/pic-18-up-down-counter-11ce1bf7baab) - *A cool algorithm — making a counter  for PIC18F*    
 
 ##### **Unit - 04 - TMR**
 
