@@ -54,6 +54,8 @@ Welcome!
 
 [#08_code](unit_01_IO/08_code)#picSeries - [**PIC 18 Random Flashing LEDs**](https://medium.com/jungletronics/pic-18-random-flashing-leds-287ce7d4bf7) - *How to generating a random number w/ seed*    
 
+[#09_code](unit_01_IO/09_code)#picSeries - [**PIC 18 Internal Weak Pull-Ups**](https://medium.com/jungletronics/pic-18-internal-weak-pull-ups-d825e7991bad) - *How to activate weak-pull-ups-resistors on PIC18*    
+
 
 ##### **Unit - 04 - TMR**
 
