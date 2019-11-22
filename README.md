@@ -20,8 +20,8 @@ Welcome!
 **Hardware**:    Development Boards (OPTIONS):
 
   PicGenios:  Hardware: [Elect. Schema. & Layout](hardware/) & Board: [PICGENIOS]( https://loja.microgenios.com.br/produto/kit-picgenios-pic18f4520-com-gravador-usb-microicd-licen-a-compilador-mikroc-pro-for-pic/23507) & Chip: [PIC18F4520](https://www.microchip.com/wwwproducts/en/PIC18F4520),                   
- [EasyPIC™ v7](https://www.mikroe.com/easypic-v7)<- Chip: [PIC18F45k22](https://www.microchip.com/wwwproducts/en/PIC18F45K22) or [EasyPIC™ v8](https://www.mikroe.com/easypic)* - Chip: [PIC18F47k42](https://www.microchip.com/wwwproducts/en/PIC18F47K42)
- (*) if you ask me for my recommendation, buy this one! not tested by J3, though :/ make do with what you have :) (<-)The code here works to this board too via preprocessor directives (plz help me to debug :D)
+ [EasyPIC™ v7](https://www.mikroe.com/easypic-v7)<- Chip: [PIC18F45k22](https://www.microchip.com/wwwproducts/en/PIC18F45K22) <- The code here works to this board too via preprocessor directives (plz help me to debug :D) or [EasyPIC™ v8](https://www.mikroe.com/easypic)* - Chip: [PIC18F47k42](https://www.microchip.com/wwwproducts/en/PIC18F47K42)
+ (*) if you ask me for my recommendation, buy this one! not tested by J3, though :/ make do with what you have :)
  
 **Compiler**: Compiler IDE:
 
@@ -49,6 +49,8 @@ Welcome!
 [#05_code](unit_01_IO/05_code)#picSeries - [**PIC 18 Chasing LEDs**](https://medium.com/jungletronics/pic-18-chasing-leds-c86ba443e531) - *The net result is that LEDs seem to be chasing each other*    
 
 [#06_code](unit_01_IO/06_code)#picSeries - [**PIC 18 Double Chasing LEDs**](https://medium.com/jungletronics/pic-18-double-chasing-8276d6a6886b) - *This code deals with bitwise operators o/*    
+
+[#07_code](unit_01_IO/07_code)#picSeries - [**PIC 18 Ambulance Light LEDs**](https://medium.com/jungletronics/pic-18-ambulance-light-95e308d395e3x') - *Algorithm for ambulance-like-flashing-light*    
 
 
 ##### **Unit - 04 - TMR**
