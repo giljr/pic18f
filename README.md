@@ -69,6 +69,7 @@ Welcome!
 
 [#02_code](unit_02_LCD/02_code)#picSeries - [**PIC 18  LCD First Animation On Screen**](https://medium.com/jungletronics/pic-lcd-first-animation-45dfd9e7506b) - *Let’s make our first animation on LCD using PIC18F!*    
 
+[#03_code](unit_02_LCD/03_code)#picSeries - [**PIC 18  LCD Key & Counter**](https://medium.com/jungletronics/pic-lcd-key-counter-5b0c6b9ca4b2) - *Press UP key Increment or DOWN Key to Decrements a Counter - present at LCD*    
 
 
 ##### **Unit - 04 - TMR**
