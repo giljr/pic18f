@@ -63,7 +63,9 @@ Welcome!
 
 ##### **Unit - 02 - LCD**
 
-[#01_code](unit_02_LCD/01_code)#picSeries - [**PIC 18  LCD Simulator**](https://medium.com/jungletronics/pic-18-lcd-intro-c9665f2d99f8) - *Know How Controller HD44780 Character LCD Displays works!*    
+[#00_code](unit_02_LCD/00_code)#picSeries - [**PIC 18  LCD Simulator**](https://medium.com/jungletronics/pic-18-lcd-intro-c9665f2d99f8) - *Know How Controller HD44780 Character LCD Displays works!*    
+
+[#01_code](unit_02_LCD/01_code)#picSeries - [**PIC 18  LCD First Print on Screen**](https://medium.com/jungletronics/pic-lcd-first-print-9e3be6455df9) - *Let’s make our first print on LCD using PIC18F!*    
 
 
 
