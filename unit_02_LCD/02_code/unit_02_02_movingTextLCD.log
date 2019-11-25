@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_02_LCD\02_code\unit_02_02_movingTextLCD.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_02_LCD\02_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit_02_02_movingTextLCD.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	unit_02_02_movingTextLCD.c
+diagnostics: 142	123	Compiled Successfully	unit_02_02_movingTextLCD.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 69 (5%)  Free RAM (bytes): 1446 (95%)	Used RAM (bytes): 69 (5%)  Free RAM (bytes): 1446 (95%)
+hint: 0	1144	Used ROM (bytes): 827 (3%)  Free ROM (bytes): 31941 (97%)	Used ROM (bytes): 827 (3%)  Free ROM (bytes): 31941 (97%)
+diagnostics: 0	125	Project Linked Successfully	unit_02_02_movingTextLCD.mcppi
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'unit_02_02_movingTextLCD.mcppi' completed: 188 ms	 
+diagnostics: 0	103	Finished successfully: 29 out 2019, 10:46:38	unit_02_02_movingTextLCD.mcppi

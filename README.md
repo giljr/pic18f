@@ -67,6 +67,8 @@ Welcome!
 
 [#01_code](unit_02_LCD/01_code)#picSeries - [**PIC 18  LCD First Print on Screen**](https://medium.com/jungletronics/pic-lcd-first-print-9e3be6455df9) - *Let’s make our first print on LCD using PIC18F!*    
 
+[#02_code](unit_02_LCD/02_code)#picSeries - [**PIC 18  LCD First Animation On Screen**](https://medium.com/jungletronics/pic-lcd-first-animation-45dfd9e7506b) - *Let’s make our first animation on LCD using PIC18F!*    
+
 
 
 ##### **Unit - 04 - TMR**
