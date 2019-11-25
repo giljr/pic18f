@@ -60,6 +60,13 @@ Welcome!
 
 [#11_code](unit_01_IO/11_code)#picSeries - [**PIC 18  Up Down Counter**](https://medium.com/jungletronics/pic-18-up-down-counter-11ce1bf7baab) - *A cool algorithm — making a counter  for PIC18F*    
 
+
+##### **Unit - 02 - LCD**
+
+[#01_code](unit_02_LCD/01_code)#picSeries - [**PIC 18  LCD Simulator**](https://medium.com/jungletronics/pic-18-lcd-intro-c9665f2d99f8) - *Know How Controller HD44780 Character LCD Displays works!*    
+
+
+
 ##### **Unit - 04 - TMR**
 
 [#10_code](unit_04_TMR/10_code)#picSeries - [**PIC18F4520 - Episode#01**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
