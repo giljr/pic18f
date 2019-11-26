@@ -71,6 +71,8 @@ Welcome!
 
 [#03_code](unit_02_LCD/03_code)#picSeries - [**PIC 18  LCD Key & Counter**](https://medium.com/jungletronics/pic-lcd-key-counter-5b0c6b9ca4b2) - *Press UP or Down key to(inc)decrement a counter-show at LCD*    
 
+[#04_code](unit_02_LCD/04_code)#picSeries - [**PIC 18  LCD Custom Symbols**](https://medium.com/jungletronics/pic-lcd-custom-symbols-d46e30e53017) - *How to create a custom character on LCD for PIC18F*    
+
 
 ##### **Unit - 04 - TMR**
 
