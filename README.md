@@ -75,11 +75,18 @@ Welcome!
 
 [#05_code](unit_02_LCD/05_code)#picSeries - [**PIC 18  LCD Digital Thermomether**](https://medium.com/jungletronics/pic-18-digital-thermometer-d20486bf16e4) - *Designing a Digital Thermometer w/ LM35 & PIC18F*    
 
-[#06_code](unit_02_LCD/06_code)#picSeries - [**PIC 18  LCD CAlculator**](https://medium.com/jungletronics/pic-18-lcd-calculator-7e84687d3621) - *How to set up a calculator using PIC18F*    
+[#06_code](unit_02_LCD/06_code)#picSeries - [**PIC 18  LCD Calculator**](https://medium.com/jungletronics/pic-18-lcd-calculator-7e84687d3621) - *How to set up a calculator using PIC18F*    
 
 [#07_code](unit_02_LCD/07_code)#picSeries - [**PIC 18  LCD Keypad**](https://medium.com/jungletronics/pic-18-lcd-keypad-discovery-1fb7e71a5da0) - *How to set up a keypad using PIC18F*    
 
 [#08_code](unit_02_LCD/08_code)#picSeries - [**PIC 18  LCD Menu**](https://medium.com/jungletronics/pic-18-lcd-menu-template-32f7693369f7) - *How to set up a LCD menu using PIC18F*    
+
+
+##### **Unit - 03 - ADC**
+
+[#01_code](unit_03_ADC/01_code)#picSeries - [**PIC 18  ADC INTRO**](https://medium.com/jungletronics/pic-18-adc-intro-ab9c1d630a98) - *Reading a tripot at AN0 without library w/ PIC18F*    
+
+
 
 
 ##### **Unit - 04 - TMR**
