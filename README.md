@@ -77,6 +77,8 @@ Welcome!
 
 [#06_code](unit_02_LCD/06_code)#picSeries - [**PIC 18  LCD CAlculator**](https://medium.com/jungletronics/pic-18-lcd-calculator-7e84687d3621) - *How to set up a calculator using PIC18F*    
 
+[#07_code](unit_02_LCD/07_code)#picSeries - [**PIC 18  LCD Keypad**](https://medium.com/jungletronics/pic-18-lcd-keypad-discovery-1fb7e71a5da0) - *How to set up a keypad using PIC18F*    
+
 
 ##### **Unit - 04 - TMR**
 
