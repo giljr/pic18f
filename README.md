@@ -73,10 +73,12 @@ Welcome!
 
 [#04_code](unit_02_LCD/04_code)#picSeries - [**PIC 18  LCD Custom Symbols**](https://medium.com/jungletronics/pic-lcd-custom-symbols-d46e30e53017) - *How to create a custom character on LCD for PIC18F*    
 
+[#05_code](unit_02_LCD/05_code)#picSeries - [**PIC 18  LCD Digital Thermomether**](https://medium.com/jungletronics/pic-18-digital-thermometer-d20486bf16e4) - *Designing a Digital Thermometer w/ LM35 & PIC18F*    
+
 
 ##### **Unit - 04 - TMR**
 
-[#10_code](unit_04_TMR/10_code)#picSeries - [**PIC18F4520 - Episode#01**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
+[#10_code](unit_04_TMR/10_code)#picSeries - [**PIC18F4520 - Timer0**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
 
 
 

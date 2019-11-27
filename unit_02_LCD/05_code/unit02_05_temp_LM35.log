@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_02_LCD\05_code\unit02_05_temp_LM35.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_02_LCD\05_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit02_05_temp_LM35.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	unit02_05_temp_LM35.c
+diagnostics: 131	123	Compiled Successfully	unit02_05_temp_LM35.c
+hint: 105	1164	Variable 'temp' has been eliminated by optimizer	unit02_05_temp_LM35.c
+hint: 106	1164	Variable 'mV' has been eliminated by optimizer	unit02_05_temp_LM35.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+hint: 0	1144	Used RAM (bytes): 56 (4%)  Free RAM (bytes): 1459 (96%)	Used RAM (bytes): 56 (4%)  Free RAM (bytes): 1459 (96%)
+hint: 0	1144	Used ROM (bytes): 3199 (10%)  Free ROM (bytes): 29569 (90%)	Used ROM (bytes): 3199 (10%)  Free ROM (bytes): 29569 (90%)
+diagnostics: 0	125	Project Linked Successfully	unit02_05_temp_LM35.mcppi
+diagnostics: 0	128	Linked in 109 ms	 
+diagnostics: 0	129	Project 'unit02_05_temp_LM35.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 29 out 2019, 16:00:09	unit02_05_temp_LM35.mcppi
