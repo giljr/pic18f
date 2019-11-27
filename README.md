@@ -75,6 +75,8 @@ Welcome!
 
 [#05_code](unit_02_LCD/05_code)#picSeries - [**PIC 18  LCD Digital Thermomether**](https://medium.com/jungletronics/pic-18-digital-thermometer-d20486bf16e4) - *Designing a Digital Thermometer w/ LM35 & PIC18F*    
 
+[#06_code](unit_02_LCD/06_code)#picSeries - [**PIC 18  LCD CAlculator**](https://medium.com/jungletronics/pic-18-lcd-calculator-7e84687d3621) - *How to set up a calculator using PIC18F*    
+
 
 ##### **Unit - 04 - TMR**
 
