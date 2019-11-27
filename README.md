@@ -79,6 +79,8 @@ Welcome!
 
 [#07_code](unit_02_LCD/07_code)#picSeries - [**PIC 18  LCD Keypad**](https://medium.com/jungletronics/pic-18-lcd-keypad-discovery-1fb7e71a5da0) - *How to set up a keypad using PIC18F*    
 
+[#08_code](unit_02_LCD/08_code)#picSeries - [**PIC 18  LCD Menu**](https://medium.com/jungletronics/pic-18-lcd-menu-template-32f7693369f7) - *How to set up a LCD menu using PIC18F*    
+
 
 ##### **Unit - 04 - TMR**
 

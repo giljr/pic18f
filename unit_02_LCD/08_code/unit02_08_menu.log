@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_02_LCD\08_code\unit02_08_menu.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_02_LCD\08_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit02_08_menu.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	unit02_08_menu.c
+diagnostics: 180	123	Compiled Successfully	unit02_08_menu.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 182 (12%)  Free RAM (bytes): 1333 (88%)	Used RAM (bytes): 182 (12%)  Free RAM (bytes): 1333 (88%)
+hint: 0	1144	Used ROM (bytes): 1488 (5%)  Free ROM (bytes): 31280 (95%)	Used ROM (bytes): 1488 (5%)  Free ROM (bytes): 31280 (95%)
+diagnostics: 0	125	Project Linked Successfully	unit02_08_menu.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'unit02_08_menu.mcppi' completed: 172 ms	 
+diagnostics: 0	103	Finished successfully: 29 out 2019, 19:46:11	unit02_08_menu.mcppi
