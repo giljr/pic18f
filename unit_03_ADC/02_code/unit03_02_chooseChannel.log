@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_03_ADC\02_code\unit03_02_chooseChannel.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_03_ADC\02_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit03_02_ChooseChannel.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+diagnostics: 0	122	Compilation Started	unit03_02_ChooseChannel.c
+diagnostics: 183	123	Compiled Successfully	unit03_02_ChooseChannel.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+diagnostics: 0	125	Project Linked Successfully	unit03_02_chooseChannel.mcppi
+diagnostics: 0	128	Linked in 109 ms	 
+diagnostics: 0	129	Project 'unit03_02_chooseChannel.mcppi' completed: 266 ms	 
+diagnostics: 0	103	Finished successfully: 29 nov 2019, 17:46:02	unit03_02_chooseChannel.mcppi
