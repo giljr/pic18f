@@ -88,6 +88,8 @@ Welcome!
 
 [#02_code](unit_03_ADC/02_code)#picSeries - [**PIC 18 ADC Choosing Channel**](https://medium.com/jungletronics/pic-18-adc-choosing-channel-34cb8c7c46c4) - *Create a function to read tripots' channel AN0 or AN1 using PIC18F*    
 
+[#03_code](unit_03_ADC/03_code)#picSeries - [**PIC 18 ADC Formatting Numbers**](https://medium.com/jungletronics/pic-18-adc-formatting-numbers-5bf9d34bea83) - *How to format numbers for LCD's presentation using PIC18F*    
+
 
 
 
