@@ -90,6 +90,8 @@ Welcome!
 
 [#03_code](unit_03_ADC/03_code)#picSeries - [**PIC 18 ADC Formatting Numbers**](https://medium.com/jungletronics/pic-18-adc-formatting-numbers-5bf9d34bea83) - *How to format numbers for LCD's presentation using PIC18F*    
 
+[#04_code](unit_03_ADC/04_code)#picSeries - [**PIC 18 ADC Voltmeter**](https://medium.com/jungletronics/pic-18-adc-voltmeter-7e8f05d5a8e2) - *How to create a voltmeter using PIC18F*    
+
 
 
 
