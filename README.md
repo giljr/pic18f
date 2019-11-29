@@ -92,7 +92,7 @@ Welcome!
 
 [#04_code](unit_03_ADC/04_code)#picSeries - [**PIC 18 ADC Voltmeter**](https://medium.com/jungletronics/pic-18-adc-voltmeter-7e8f05d5a8e2) - *How to create a voltmeter using PIC18F*    
 
-
+[#05_code](unit_03_ADC/05_code)#picSeries - [**PIC 18 ADC Floating Numbers*](https://medium.com/jungletronics/pic-18-adc-floating-numbers-ddc280d86360) - *How to fake loating numbers using PIC18F*    
 
 
 ##### **Unit - 04 - TMR**
