@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unid_11_EEPROM\01_code\unid_11_1_eeprom.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unid_11_EEPROM\01_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unid_11_1_eeprom.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	unid_11_1_eeprom.c
+diagnostics: 44	123	Compiled Successfully	unid_11_1_eeprom.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+diagnostics: 0	125	Project Linked Successfully	unid_11_1_eeprom.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'unid_11_1_eeprom.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 03 nov 2019, 17:52:19	unid_11_1_eeprom.mcppi

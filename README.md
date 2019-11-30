@@ -132,6 +132,12 @@ Welcome!
 
 [#06_code](unit_05_INT/06_code)#picSeries - [**PIC 18 INT IOC**]() - *How to use IOC interruptions w/ PIC18F*     
 
+
+##### **Unit - 11 - EEPROM**
+
+[#01_code](unit_11_EEPROM/01_code)#picSeries - [**PIC 18 EEPROM Hello World**]() - *Hello World EEPROM for PIC18F*     
+
+
 ##### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
