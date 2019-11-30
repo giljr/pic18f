@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_04_TMR\07_code\unit_04_07_timer2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_04_TMR\07_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit_04_07_timer2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	unit_04_07_timer2.c
+diagnostics: 106	123	Compiled Successfully	unit_04_07_timer2.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+diagnostics: 0	125	Project Linked Successfully	unit_04_07_timer2.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'unit_04_07_timer2.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 30 nov 2019, 13:15:45	unit_04_07_timer2.mcppi

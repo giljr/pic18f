@@ -109,6 +109,8 @@ Welcome!
 
 [#06_code](unit_04_TMR/06_code)#picSeries - [**PIC 18 TMR Timer1 & LCD**](https://medium.com/jungletronics/pic-18-tmr1-lcd-9ea34103e369) - *Let's present results on LCD!*     
 
+[#07_code](unit_04_TMR/07_code)#picSeries - [**PIC 18 TMR Timer2 INTRO**]() - *Let's turn on & off Timer2?*     
+
 [#10_code](unit_04_TMR/10_code)#picSeries - [**PIC 18 TMR Timer0**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
 
 
