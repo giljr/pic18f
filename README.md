@@ -101,6 +101,8 @@ Welcome!
 
 [#02_code](unit_04_TMR/02_code)#picSeries - [**PIC 18 TMR Timer0 Extended**](https://medium.com/jungletronics/pic-18-tmr0-extended-5s-d5641ae6488b) - *TIMER0 counts at every 5 long seconds*     
 
+[#03_code](unit_04_TMR/03_code)#picSeries - [**PIC 18 TMR Timer0 Counts 'Till Ten**]() - *TIMER0 counts 'till ten*     
+
 [#10_code](unit_04_TMR/10_code)#picSeries - [**PIC 18 TMR Timer0**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
 
 
