@@ -1,0 +1,354 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData>
+<Version>7.1.1</Version>
+<String>
+<Name>VIName</Name>
+<Val>SoundScope.vi</Val>
+</String>
+<DBL>
+<Name>AmplitudeCH1</Name>
+<Val>9.00000E-3</Val>
+</DBL>
+<DBL>
+<Name>Zeit</Name>
+<Val>1.00000</Val>
+</DBL>
+<DBL>
+<Name>Offset 2</Name>
+<Val>0.00000</Val>
+</DBL>
+<DBL>
+<Name>Offset 1</Name>
+<Val>0.00000</Val>
+</DBL>
+<U16>
+<Name>Modus</Name>
+<Val>3</Val>
+</U16>
+<U16>
+<Name>Flanke</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>TriggerKanal</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Kanal Modus</Name>
+<Val>0</Val>
+</U16>
+<DBL>
+<Name>Schwelle</Name>
+<Val>4.14000E-3</Val>
+</DBL>
+<Boolean>
+<Name>SyncCHs</Name>
+<Val>1</Val>
+</Boolean>
+<DBL>
+<Name>TriggerTime</Name>
+<Val>0.50000</Val>
+</DBL>
+<DBL>
+<Name>AmplitudeCH2</Name>
+<Val>9.00000E-3</Val>
+</DBL>
+<Boolean>
+<Name>active 1</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>active 2</Name>
+<Val>0</Val>
+</Boolean>
+<U32>
+<Name>Ch1Col</Name>
+<Val>6618880</Val>
+</U32>
+<U32>
+<Name>Ch2Col</Name>
+<Val>16711680</Val>
+</U32>
+<Boolean>
+<Name>ScopeGrid</Name>
+<Val>1</Val>
+</Boolean>
+<U32>
+<Name>GridColScope</Name>
+<Val>873216</Val>
+</U32>
+<DBL>
+<Name>Amp CH 1</Name>
+<Val>1.00000</Val>
+</DBL>
+<DBL>
+<Name>Amp CH 2</Name>
+<Val>1.00000</Val>
+</DBL>
+<DBL>
+<Name>persistence</Name>
+<Val>1.00000E-2</Val>
+</DBL>
+<U32>
+<Name>XYColor</Name>
+<Val>16776960</Val>
+</U32>
+<Boolean>
+<Name>XYGrid</Name>
+<Val>1</Val>
+</Boolean>
+<U32>
+<Name>GridColXY</Name>
+<Val>873216</Val>
+</U32>
+<U16>
+<Name>Fourier Kanal</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>SelInDev</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>SelOutDev</Name>
+<Val>1</Val>
+</U16>
+<U32>
+<Name>Samples pro Sekunde</Name>
+<Val>44100</Val>
+</U32>
+<U32>
+<Name>Bits pro Sample</Name>
+<Val>16</Val>
+</U32>
+<U32>
+<Name>MeasurePeriod</Name>
+<Val>500</Val>
+</U32>
+<U32>
+<Name>FreqAverageTime</Name>
+<Val>300</Val>
+</U32>
+<DBL>
+<Name>CalibFactor</Name>
+<Val>1.00000</Val>
+</DBL>
+<Boolean>
+<Name>ActivateDevice</Name>
+<Val>0</Val>
+</Boolean>
+<DBL>
+<Name>DeviceVolume</Name>
+<Val>50.00000</Val>
+</DBL>
+<Boolean>
+<Name>MeasureVolt</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>MeasureFreq</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>CursorAmplitude</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>CursorTime</Name>
+<Val>1</Val>
+</Boolean>
+<DBL>
+<Name>Zeitzoom</Name>
+<Val>1.00000</Val>
+</DBL>
+<Graph><Cluster>
+<Name>Frequency (Fourier)</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>XScale.Minimum</Name>
+<Val>0.00000</Val>
+</DBL>
+<DBL>
+<Name>XScale.Maximum</Name>
+<Val>20000.00000</Val>
+</DBL>
+<DBL>
+<Name>YScale.Minimum</Name>
+<Val>0.00000</Val>
+</DBL>
+<DBL>
+<Name>YScale.Maximum</Name>
+<Val>4.50000E-4</Val>
+</DBL>
+</Cluster></Graph>
+<DBL>
+<Name>Zoom</Name>
+<Val>1.00000</Val>
+</DBL>
+<Boolean>
+<Name>log A</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Peak hold</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>log f</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Auto A</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>dB A</Name>
+<Val>0</Val>
+</Boolean>
+<U32>
+<Name>GridColFreq</Name>
+<Val>873216</Val>
+</U32>
+<Boolean>
+<Name>FreqGrid</Name>
+<Val>1</Val>
+</Boolean>
+<DBL>
+<Name>WaterfallTime</Name>
+<Val>5.00000</Val>
+</DBL>
+<DBL>
+<Name>WaterFall scale</Name>
+<Val>1.00000</Val>
+</DBL>
+<String>
+<Name>VIName</Name>
+<Val>SignalGenerator.vi</Val>
+</String>
+<U16>
+<Name>Signal Typ CH1</Name>
+<Val>0</Val>
+</U16>
+<DBL>
+<Name>Amplitude CH1</Name>
+<Val>0.50000</Val>
+</DBL>
+<DBL>
+<Name>Frequenz CH1</Name>
+<Val>440.00000</Val>
+</DBL>
+<U16>
+<Name>Signal Typ CH2</Name>
+<Val>0</Val>
+</U16>
+<DBL>
+<Name>Amplitude CH2</Name>
+<Val>0.50000</Val>
+</DBL>
+<DBL>
+<Name>Frequenz CH2</Name>
+<Val>440.00000</Val>
+</DBL>
+<DBL>
+<Name>Phase CH2</Name>
+<Val>0.00000</Val>
+</DBL>
+<U8>
+<Name>Duty cycle</Name>
+<Val>50</Val>
+</U8>
+<U8>
+<Name>Duty cycle 2</Name>
+<Val>50</Val>
+</U8>
+<Boolean>
+<Name>Sweep</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Sweep 2</Name>
+<Val>0</Val>
+</Boolean>
+<DBL>
+<Name>FreqSweep CH1</Name>
+<Val>10000.00000</Val>
+</DBL>
+<DBL>
+<Name>FreqSweep CH2</Name>
+<Val>10000.00000</Val>
+</DBL>
+<DBL>
+<Name>TimeSweep CH1</Name>
+<Val>5.00000</Val>
+</DBL>
+<DBL>
+<Name>TimeSweep CH2</Name>
+<Val>5.00000</Val>
+</DBL>
+<EL>
+<Name>CH1toScope</Name>
+<Choice>No Selection</Choice>
+<Choice>CH1</Choice>
+<Choice>CH2</Choice>
+<Val>0</Val>
+</EL>
+<EL>
+<Name>CH2toScope</Name>
+<Choice>No Selection</Choice>
+<Choice>CH1</Choice>
+<Choice>CH2</Choice>
+<Val>0</Val>
+</EL>
+<DBL>
+<Name>TimeDelay</Name>
+<Val>0.00000</Val>
+</DBL>
+<String>
+<Name>VIName</Name>
+<Val>FilterControl.vi</Val>
+</String>
+<DBL>
+<Name>f(CutOff) Low</Name>
+<Val>1000.00000</Val>
+</DBL>
+<DBL>
+<Name>f(CutOff) High</Name>
+<Val>20000.00000</Val>
+</DBL>
+<U16>
+<Name>Filterart</Name>
+<Val>0</Val>
+</U16>
+<DBL>
+<Name>f(CutOff) Low 2</Name>
+<Val>1000.00000</Val>
+</DBL>
+<DBL>
+<Name>f(CutOff) High 2</Name>
+<Val>20000.00000</Val>
+</DBL>
+<U16>
+<Name>Filterart 2</Name>
+<Val>0</Val>
+</U16>
+<Boolean>
+<Name>Sync channels</Name>
+<Val>1</Val>
+</Boolean>
+<String>
+<Name>VIName</Name>
+<Val>AudioRecorder.vi</Val>
+</String>
+<DBL>
+<Name>RecTime</Name>
+<Val>1.00000</Val>
+</DBL>
+<DBL>
+<Name>Pre-Trigger</Name>
+<Val>0.50000</Val>
+</DBL>
+<Boolean>
+<Name>AutoRecTimeWindow</Name>
+<Val>1</Val>
+</Boolean>
+</LVData>
