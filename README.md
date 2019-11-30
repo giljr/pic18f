@@ -120,8 +120,9 @@ Welcome!
 
 ##### **Unit - 05 - INT**
 
-[#01_code](unit_05_INT/01_code)#picSeries - [**PIC 18 INT Timer0 Hello World**](https://medium.com/jungletronics/pic-18-int-intro-19d5a8a268fb) - *Hello World INTERRIPTIONS for TIMER0*     
+[#01_code](unit_05_INT/01_code)#picSeries - [**PIC 18 INT Timer0 Hello World**](https://medium.com/jungletronics/pic-18-int-intro-19d5a8a268fb) - *Hello World INTERRUPTIONS for TIMER0*     
 
+[#02_code](unit_05_INT/02_code)#picSeries - [**PIC 18 INT Timer0 Priorities**](https://medium.com/jungletronics/pic-int-2-techniques-int-polling-e0b360231c44) - *How to deal with priorities w/ PIC18F*     
 
 ##### License
 

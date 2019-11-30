@@ -1,0 +1,9 @@
+main
+	configMCU
+	configTMR0
+	configTMR1
+	configGlobalInterruption
+	configIndividualVctTMR0
+	configIndividualVctTMR1
+INTERRUPTION_LOW
+INTERRUPTION_HIGH
