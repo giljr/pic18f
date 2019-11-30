@@ -128,6 +128,8 @@ Welcome!
 
 [#04_code](unit_05_INT/04_code)#picSeries - [**PIC 18 INT0**](https://medium.com/jungletronics/pic-int-dealing-w-int0-e7073100012) - *How to use INT0 interruptions w/ PIC18F*     
 
+[#05_code](unit_05_INT/05_code)#picSeries - [**PIC 18 INT0, INT1 & INT2**](https://medium.com/jungletronics/pic-int0-int1-int2-altogether-o-1ecbee1631ef) - *How to use INT0, INT1 & INT2 interruptions w/ PIC18F*     
+
 ##### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)

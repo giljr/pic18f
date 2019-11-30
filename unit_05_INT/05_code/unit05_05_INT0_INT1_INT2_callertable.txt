@@ -1,0 +1,8 @@
+main
+	ConfigMCU
+	configGlobalInterruption
+	configIndividualVctINT0
+	configIndividualVctINT1
+	configIndividualVctINT2
+INTERRUPTION_LOW
+INTERRUPTION_HIGH

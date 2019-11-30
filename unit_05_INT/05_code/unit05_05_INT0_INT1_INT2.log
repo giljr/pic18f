@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_05_INT\05_code\unit05_05_INT0_INT1_INT2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_05_INT\05_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit05_05_INT0_INT1_INT2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	unit05_05_INT0_INT1_INT2.c
+diagnostics: 175	123	Compiled Successfully	unit05_05_INT0_INT1_INT2.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+diagnostics: 0	125	Project Linked Successfully	unit05_05_INT0_INT1_INT2.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'unit05_05_INT0_INT1_INT2.mcppi' completed: 156 ms	 
+diagnostics: 0	103	Finished successfully: 30 nov 2019, 16:00:33	unit05_05_INT0_INT1_INT2.mcppi
