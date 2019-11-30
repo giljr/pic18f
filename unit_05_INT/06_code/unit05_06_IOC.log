@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_05_INT\06_code\unit05_06_IOC.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_05_INT\06_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit05_06_IOC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	unit05_06_IOC.c
+diagnostics: 143	123	Compiled Successfully	unit05_06_IOC.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+diagnostics: 0	125	Project Linked Successfully	unit05_06_IOC.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'unit05_06_IOC.mcppi' completed: 157 ms	 
+diagnostics: 0	103	Finished successfully: 30 nov 2019, 16:20:15	unit05_06_IOC.mcppi

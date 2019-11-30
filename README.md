@@ -130,6 +130,8 @@ Welcome!
 
 [#05_code](unit_05_INT/05_code)#picSeries - [**PIC 18 INT0, INT1 & INT2**](https://medium.com/jungletronics/pic-int0-int1-int2-altogether-o-1ecbee1631ef) - *How to use INT0, INT1 & INT2 interruptions w/ PIC18F*     
 
+[#06_code](unit_05_INT/06_code)#picSeries - [**PIC 18 INT IOC**]() - *How to use IOC interruptions w/ PIC18F*     
+
 ##### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
