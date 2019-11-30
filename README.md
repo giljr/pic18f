@@ -29,8 +29,8 @@ Welcome!
 
 **Software**:    Development Programmer/Debugger:
 
-  [Microchip’s PICkit™ 2](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/PG164120)* -> [Download:]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ) [Microchip’s PICkit™ 3](https://www.microchip.com/developmenttools/ProductDetails/PG164130) and the new [MPLAB PICkit™ 4](https://www.microchip.com/developmenttools/ProductDetails/PG164140) or								 
-  [mikroProg suite for PIC]( https://www.mikroe.com/blog/mikroprog-suite-for-pic-version-2-3-1-released ) (*) used here therein!
+  [Microchip’s PICkit™ 2](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/PG164120)* -> used here therein! [Download:]( http://ww1.microchip.com/downloads/en/DeviceDoc/PICkit%202%20v2.61.00%20Setup%20A.zip ) [Microchip’s PICkit™ 3](https://www.microchip.com/developmenttools/ProductDetails/PG164130) and the new [MPLAB PICkit™ 4](https://www.microchip.com/developmenttools/ProductDetails/PG164140) or								 
+  [mikroProg suite for PIC]( https://www.mikroe.com/blog/mikroprog-suite-for-pic-version-2-3-1-released ) 
 
 
 
@@ -92,12 +92,14 @@ Welcome!
 
 [#04_code](unit_03_ADC/04_code)#picSeries - [**PIC 18 ADC Voltmeter**](https://medium.com/jungletronics/pic-18-adc-voltmeter-7e8f05d5a8e2) - *How to create a voltmeter using PIC18F*    
 
-[#05_code](unit_03_ADC/05_code)#picSeries - [**PIC 18 ADC Floating Numbers*](https://medium.com/jungletronics/pic-18-adc-floating-numbers-ddc280d86360) - *How to fake loating numbers using PIC18F*    
+[#05_code](unit_03_ADC/05_code)#picSeries - [**PIC 18 ADC Floating Numbers**](https://medium.com/jungletronics/pic-18-adc-floating-numbers-ddc280d86360) - *How to fake loating numbers using PIC18F*    
 
 
 ##### **Unit - 04 - TMR**
 
-[#10_code](unit_04_TMR/10_code)#picSeries - [**PIC18F4520 - Timer0**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
+[#01_code](unit_04_TMR/01_code)#picSeries - [**PIC 18 TMR Timer0 Hello World**](https://medium.com/jungletronics/pic-18-tmr-intro-7a0c9123c474) - *Hello World for TIMER0 to overflow at each 1s*     
+
+[#10_code](unit_04_TMR/10_code)#picSeries - [**PIC 18 TMR Timer0**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
 
 
 
