@@ -126,6 +126,8 @@ Welcome!
 
 [#03_code](unit_05_INT/03_code)#picSeries - [**PIC 18 INT & ADC**](https://medium.com/jungletronics/pic-18-int-adc-7620f24f833d) - *How to average ADC reading using interruptions w/ PIC18F*     
 
+[#04_code](unit_05_INT/04_code)#picSeries - [**PIC 18 INT0**](https://medium.com/jungletronics/pic-int-dealing-w-int0-e7073100012) - *How to use INT0 interruptions w/ PIC18F*     
+
 ##### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
