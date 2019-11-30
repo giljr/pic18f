@@ -124,6 +124,8 @@ Welcome!
 
 [#02_code](unit_05_INT/02_code)#picSeries - [**PIC 18 INT Timer0 Priorities**](https://medium.com/jungletronics/pic-int-2-techniques-int-polling-e0b360231c44) - *How to deal with priorities w/ PIC18F*     
 
+[#03_code](unit_05_INT/03_code)#picSeries - [**PIC 18 INT & ADC**](https://medium.com/jungletronics/pic-18-int-adc-7620f24f833d) - *How to average ADC reading using interruptions w/ PIC18F*     
+
 ##### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
