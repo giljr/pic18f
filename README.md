@@ -103,6 +103,8 @@ Welcome!
 
 [#03_code](unit_04_TMR/03_code)#picSeries - [**PIC 18 TMR Timer0 Counts 'Till Ten**]() - *TIMER0 counts 'till ten*     
 
+[#04_code](unit_04_TMR/04_code)#picSeries - [**PIC 18 TMR Timer1 Counts 'Till its MAX**]() - *So, what is the max period for Timer1 (@8MHz)?*     
+
 [#10_code](unit_04_TMR/10_code)#picSeries - [**PIC 18 TMR Timer0**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
 
 
