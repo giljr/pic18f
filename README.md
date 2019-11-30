@@ -105,6 +105,10 @@ Welcome!
 
 [#04_code](unit_04_TMR/04_code)#picSeries - [**PIC 18 TMR Timer1 Counts 'Till its MAX**]() - *So, what is the max period for Timer1 (@8MHz)?*     
 
+[#05_code](unit_04_TMR/05_code)#picSeries - [**PIC 18 TMR Timer1 as a Counter**](https://medium.com/jungletronics/pic-18-tmr1-as-counter-5ece125519b) - *TIMER1 AS COUNTER and present results on LCD*     
+
+[#06_code](unit_04_TMR/06_code)#picSeries - [**PIC 18 TMR Timer1 & LCD**](https://medium.com/jungletronics/pic-18-tmr1-lcd-9ea34103e369) - *Let's present results on LCD!*     
+
 [#10_code](unit_04_TMR/10_code)#picSeries - [**PIC 18 TMR Timer0**](https://youtu.be/hI_gNCjo3G0) - *How to program TIMER0 to overflow at each 50ms - step-by-step*     
 
 

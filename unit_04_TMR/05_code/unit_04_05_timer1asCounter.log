@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_04_TMR\05_code\unit_04_05_timer1asCounter.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_04_TMR\05_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit_04_05_timer1asCounter.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+hint: 48	1354	 warning: "/*" within comment     /* ---------------------Calculation Memory ------------------------------------   and logical manner:  able  on-2-3-1-released )  20A.zip )  d-licen-a-compilador-mikroc-pro-for-pic/23507 )	C:\Users\giljr\Documents\pic\unit_04_TMR\05_code\unit_04_05_timer1asCounter.c
+diagnostics: 0	122	Compilation Started	unit_04_05_timer1asCounter.c
+diagnostics: 113	123	Compiled Successfully	unit_04_05_timer1asCounter.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 1515 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 1515 (99%)
+hint: 0	1144	Used ROM (bytes): 92 (1%)  Free ROM (bytes): 32676 (99%)	Used ROM (bytes): 92 (1%)  Free ROM (bytes): 32676 (99%)
+diagnostics: 0	125	Project Linked Successfully	unit_04_05_timer1asCounter.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'unit_04_05_timer1asCounter.mcppi' completed: 140 ms	 
+diagnostics: 0	103	Finished successfully: 31 out 2019, 12:20:32	unit_04_05_timer1asCounter.mcppi
