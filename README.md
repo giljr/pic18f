@@ -135,7 +135,9 @@ Welcome!
 
 ##### **Unit - 11 - EEPROM**
 
-[#01_code](unit_11_EEPROM/01_code)#picSeries - [**PIC 18 EEPROM Hello World**]() - *Hello World EEPROM for PIC18F*     
+[#01_code](unit_11_EEPROM/01_code)#picSeries - [**PIC 18 EEPROM Hello World**]() - *Hello World EEPROM for PIC18F* 
+    
+[#02_code](unit_11_EEPROM/02_code)#picSeries - [**PIC 18 EEPROM Library Hello World**]() - *Library Hello World EEPROM for PIC18F*     
 
 
 ##### License

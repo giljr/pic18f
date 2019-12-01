@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unid_11_EEPROM\02_code\unid_11_2_eepromLib.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unid_11_EEPROM\02_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unid_11_2_eepromLib.c" "lib_eeprom.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	unid_11_2_eepromLib.c
+diagnostics: 44	123	Compiled Successfully	unid_11_2_eepromLib.c
+diagnostics: 0	122	Compilation Started	lib_eeprom.h
+warning: 75	1505	Suspicious pointer conversion	lib_eeprom.c
+diagnostics: 90	123	Compiled Successfully	lib_eeprom.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+error: 0	355	Redefinition of '	lib_eeprom.c
+0	0		
+0	0		
+error: 3	355	Redefinition of 'EEPROM_Write_byte [lib_eeprom.c] '. 'EEPROM_Write_byte' already defined in 'unid_11_2_eepromLib.c'	lib_eeprom.c
+error: 22	355	Redefinition of 'EEPROM_Read_byte [lib_eeprom.c] '. 'EEPROM_Read_byte' already defined in 'unid_11_2_eepromLib.c'	lib_eeprom.c
+error: 0	102	Finished (with errors): 03 nov 2019, 22:30:59	unid_11_2_eepromLib.mcppi
