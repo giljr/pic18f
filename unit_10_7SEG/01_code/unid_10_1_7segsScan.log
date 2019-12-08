@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unid_10_7SEG\01_code\unid_10_1_7segsScan.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unid_10_7SEG\01_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unid_10_1_7segsScan.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	unid_10_1_7segsScan.c
+diagnostics: 158	123	Compiled Successfully	unid_10_1_7segsScan.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+diagnostics: 0	125	Project Linked Successfully	unid_10_1_7segsScan.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'unid_10_1_7segsScan.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 03 nov 2019, 16:06:02	unid_10_1_7segsScan.mcppi

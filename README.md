@@ -134,13 +134,15 @@ Welcome!
 
 ##### **Unit - 10 - 7SEG**
 
-[#10_code](unit_10_7SEG/01_code)#picSeries - [**PIC 18 7SEG FIRST TEST**](https://medium.com/jungletronics/pic-18-7seg-hello-world-20b178943706) - *Hello World 7-Segments for PIC18F* 
-    
+[#10_code](unit_10_7SEG/00_code)#picSeries - [**PIC 18 7SEG FIRST TEST**](https://medium.com/jungletronics/pic-18-7seg-hello-world-20b178943706) - *Hello World 7-Segments for PIC18F* 
+
+[#10_code](unit_10_7SEG/01_code)#picSeries - [**PIC 18 7SEG INTERRUPTIONS**](https://medium.com/jungletronics/pic-18-7seg-using-interruptions-961cceae6edd) - *Interruptions for 7-Segments using PIC18F* 
+   
 ##### **Unit - 11 - EEPROM**
 
-[#01_code](unit_11_EEPROM/01_code)#picSeries - [**PIC 18 EEPROM Hello World**]() - *Hello World EEPROM for PIC18F* 
+[#01_code](unit_11_EEPROM/01_code)#picSeries - [**PIC 18 EEPROM Hello World**](https://medium.com/jungletronics/pic-eeprom-hello-world-o-3c11f052f424) - *Hello World EEPROM for PIC18F* 
     
-[#02_code](unit_11_EEPROM/02_code)#picSeries - [**PIC 18 EEPROM Library Hello World**]() - *Library Hello World EEPROM for PIC18F*     
+[#02_code](unit_11_EEPROM/02_code)#picSeries - [**PIC 18 EEPROM Library Hello World**](https://medium.com/jungletronics/pic-18-eeprom-complete-lib-b60f864bd505) - *Library Hello World EEPROM for PIC18F*     
 
 
 ##### License

@@ -1,0 +1,7 @@
+main
+	__CC2DW
+	configMCU
+	configTimer0
+	configGlobalInterruption
+	configIndividualVctTMR0
+INTERRUPTION_HIGH
