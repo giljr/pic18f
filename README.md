@@ -132,7 +132,10 @@ Welcome!
 
 [#06_code](unit_05_INT/06_code)#picSeries - [**PIC 18 INT IOC**]() - *How to use IOC interruptions w/ PIC18F*     
 
+##### **Unit - 10 - 7SEG**
 
+[#10_code](unit_10_7SEG/01_code)#picSeries - [**PIC 18 7SEG FIRST TEST**](https://medium.com/jungletronics/pic-18-7seg-hello-world-20b178943706) - *Hello World 7-Segments for PIC18F* 
+    
 ##### **Unit - 11 - EEPROM**
 
 [#01_code](unit_11_EEPROM/01_code)#picSeries - [**PIC 18 EEPROM Hello World**]() - *Hello World EEPROM for PIC18F* 
