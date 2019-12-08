@@ -139,7 +139,7 @@ Welcome!
 
 [#01_code](unit_10_7SEG/01_code)#picSeries - [**PIC 18 7SEG Interruptions**](https://medium.com/jungletronics/pic-18-7seg-using-interruptions-961cceae6edd) - *Interruptions for 7-Segments using PIC18F* 
 
-[#02_code](unit_10_7SEG/02_code)#picSeries - [**PIC 18 7SEG Press a Button & Increments**](https://medium.com/jungletronics/pic-18-7seg-hello-world-d6ed32b17666) - *Let's press a key, increment a counter & display at 7-segs?*     
+[#02_code](unit_10_7SEG/02_code)#picSeries - [**PIC 18 7SEG Up-Down Counter**](https://medium.com/jungletronics/pic-18-7seg-hello-world-d6ed32b17666) - *Let's press a key, (de)increment a counter & display at 7-segs?*     
    
 
 ##### **Unit - 11 - EEPROM**
