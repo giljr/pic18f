@@ -1,0 +1,7 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unid_10_7SEG\02_code\unid_10_2_upDownCounter7segs.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unid_10_7SEG\02_code\" -SP"C:\Users\giljr\Documents\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unid_10_2_upDownCounter7segs.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	unid_10_2_upDownCounter7segs.c
+error: 182	300	Syntax Error: ']' expected,  but ';' found	unid_10_2_upDownCounter7segs.c
+error: 182	402	; expected, but 'varAux' found	unid_10_2_upDownCounter7segs.c
+error: 183	424	'}' expected ';' found	unid_10_2_upDownCounter7segs.c
+error: 190	424	'}' expected '}' found	unid_10_2_upDownCounter7segs.c
+error: 0	102	Finished (with errors): 07 nov 2019, 11:43:31	unid_10_2_upDownCounter7segs.mcppi

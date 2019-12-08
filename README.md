@@ -130,14 +130,18 @@ Welcome!
 
 [#05_code](unit_05_INT/05_code)#picSeries - [**PIC 18 INT0, INT1 & INT2**](https://medium.com/jungletronics/pic-int0-int1-int2-altogether-o-1ecbee1631ef) - *How to use INT0, INT1 & INT2 interruptions w/ PIC18F*     
 
-[#06_code](unit_05_INT/06_code)#picSeries - [**PIC 18 INT IOC**]() - *How to use IOC interruptions w/ PIC18F*     
+[#06_code](unit_05_INT/06_code)#picSeries - [**PIC 18 INT IOC**]() - *How to use IOC interruptions w/ PIC18F*  
+   
 
 ##### **Unit - 10 - 7SEG**
 
-[#10_code](unit_10_7SEG/00_code)#picSeries - [**PIC 18 7SEG FIRST TEST**](https://medium.com/jungletronics/pic-18-7seg-hello-world-20b178943706) - *Hello World 7-Segments for PIC18F* 
+[#00_code](unit_10_7SEG/00_code)#picSeries - [**PIC 18 7SEG First Test**](https://medium.com/jungletronics/pic-18-7seg-hello-world-20b178943706) - *Hello World 7-Segments for PIC18F* 
 
-[#10_code](unit_10_7SEG/01_code)#picSeries - [**PIC 18 7SEG INTERRUPTIONS**](https://medium.com/jungletronics/pic-18-7seg-using-interruptions-961cceae6edd) - *Interruptions for 7-Segments using PIC18F* 
+[#01_code](unit_10_7SEG/01_code)#picSeries - [**PIC 18 7SEG Interruptions**](https://medium.com/jungletronics/pic-18-7seg-using-interruptions-961cceae6edd) - *Interruptions for 7-Segments using PIC18F* 
+
+[#02_code](unit_10_7SEG/02_code)#picSeries - [**PIC 18 7SEG Press a Button & Increments**](https://medium.com/jungletronics/pic-18-7seg-hello-world-d6ed32b17666) - *Let's press a key, increment a counter & display at 7-segs?*     
    
+
 ##### **Unit - 11 - EEPROM**
 
 [#01_code](unit_11_EEPROM/01_code)#picSeries - [**PIC 18 EEPROM Hello World**](https://medium.com/jungletronics/pic-eeprom-hello-world-o-3c11f052f424) - *Hello World EEPROM for PIC18F* 
