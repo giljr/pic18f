@@ -149,6 +149,10 @@ Welcome!
 [#02_code](unit_11_EEPROM/02_code)#picSeries - [**PIC 18 EEPROM Library Hello World**](https://medium.com/jungletronics/pic-18-eeprom-complete-lib-b60f864bd505) - *Library Hello World EEPROM for PIC18F*     
 
 
+##### **Unit - 14 - I2C**
+
+[#01_code](unit_14_I2C/01_code)#picSeries - [**PIC 18 I2C Hello World**](https://medium.com/jungletronics/pic-18-i2c-external-eeprom-3945294faf7f) - *Interfacing external EEPROM with PIC Microcontroller via I2C Protocol* 
+ 
 ##### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
