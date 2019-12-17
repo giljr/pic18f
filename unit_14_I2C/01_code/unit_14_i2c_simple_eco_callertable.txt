@@ -1,0 +1,14 @@
+main
+	I2C1_Init
+	I2C1_SetTimeoutCallback
+	I2C1_Start
+		I2C1_Is_Idle
+		____DoIFC
+	I2C1_Wr
+		____DoIFC
+	I2C1_Stop
+	Delay_100ms
+	I2C1_Repeated_Start
+		____DoIFC
+	I2C1_Rd
+		____DoIFC
