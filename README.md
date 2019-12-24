@@ -153,6 +153,13 @@ Welcome!
 
 [#01_code](unit_14_I2C/01_code)#picSeries - [**PIC 18 I2C Hello World**](https://medium.com/jungletronics/pic-18-i2c-external-eeprom-3945294faf7f) - *Interfacing external EEPROM with PIC Microcontroller via I2C Protocol* 
  
+
+##### **Unit - 15 - USB**
+
+[#01_code](unit_15_USB/01_code)#picSeries - [**PIC 18 USB Hello World**](https://medium.com/jungletronics/pic-18-usb-intro-f45ebce294a3) - *Interfacing PIC18F4550 via USB Protocol using MS Visual Studio App* 
+     [#vs](unit_15_USB/vs)#picSeries - [**Visual Studio Solution**](https://medium.com/jungletronics/pic-18-usb-intro-f45ebce294a3) - *How to use Visual Studio - PIC18 - USB* 
+ 
+
 ##### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)

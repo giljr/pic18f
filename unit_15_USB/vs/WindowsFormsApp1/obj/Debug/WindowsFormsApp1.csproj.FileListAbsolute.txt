@@ -1,0 +1,11 @@
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\bin\Debug\EasyUSBHidNetClass.dll
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\giljr\Documents\pic\unit_15_USB\vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
