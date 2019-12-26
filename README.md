@@ -153,7 +153,7 @@ Welcome!
 
 [#00_code](unit_12_HLVD/00_code)#picSeries - [**PIC 18 HLVD Hello World**]() - *Saving critical variable at EEPROM via HLVD peripheral* 
 
-[#01_code](unit_12_HLVD/01_code)#picSeries - [**PIC 18 HLVD & 7-SEG Display**]() - *Interfacing EEPROM with 7-Segment Display via HLVD back-up task* 
+[#01_code](unit_12_HLVD/01_code)#picSeries - [**PIC 18 HLVD & 7-SEG Display**]() - *Interfacing EEPROM + 7-Segment Display + HLVD back-up protection* 
    
 ##### **Unit - 14 - I2C**
 
