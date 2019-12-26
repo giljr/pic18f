@@ -1,0 +1,6 @@
+main
+	__CC2DW
+	ConfigMCU
+	EEPROM_Read
+INTERRUPCAO_HIGH
+	EEPROM_Write

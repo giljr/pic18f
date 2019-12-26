@@ -1,0 +1,12 @@
+main
+	__CC2DW
+	configMCU
+	configTimer0
+	configGlobalInterruption
+	configIndividualVctTMR0
+	configIndividualPrfHLVD
+	configcrHLVD
+	EEPROM_Read
+	Div_16X16_U
+INTERRUPTION_HIGH
+	EEPROM_Write

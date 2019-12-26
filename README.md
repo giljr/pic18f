@@ -149,6 +149,12 @@ Welcome!
 [#02_code](unit_11_EEPROM/02_code)#picSeries - [**PIC 18 EEPROM Library Hello World**](https://medium.com/jungletronics/pic-18-eeprom-complete-lib-b60f864bd505) - *Library Hello World EEPROM for PIC18F*     
 
 
+##### **Unit - 12 - HLVD**
+
+[#00_code](unit_12_HLVD/00_code)#picSeries - [**PIC 18 HLVD Hello World**]() - *Saving critical variable at EEPROM via HLVD peripheral* 
+
+[#01_code](unit_12_HLVD/01_code)#picSeries - [**PIC 18 HLVD & 7-SEG Display**]() - *Interfacing external EEPROM with 7-Segment Display via HLVD back-up task* 
+   
 ##### **Unit - 14 - I2C**
 
 [#01_code](unit_14_I2C/01_code)#picSeries - [**PIC 18 I2C Hello World**](https://medium.com/jungletronics/pic-18-i2c-external-eeprom-3945294faf7f) - *Interfacing external EEPROM with PIC Microcontroller via I2C Protocol* 
