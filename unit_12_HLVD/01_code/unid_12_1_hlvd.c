@@ -10,7 +10,7 @@
     Fuse Config Note: Go to Menu > Edit Project > Brown-on Reset > desabled
     Lib  Config Note: Enable EEPROM Lib at Library Manager Tab
 
-      Author:   microgenios, edited by J3
+        Author:   microgenios, edited by J3
 
    PIC Lessons: How to Start to Program PIC 18 - Step-by-step for Beginners!
 

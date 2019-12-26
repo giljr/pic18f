@@ -6,8 +6,8 @@
                  and as soon as the power recovers, we retrieve the last count value 
                  and continue counting from the point we stopped counting. 
         
-    Fuse Config Note: Go to Menu > Edit Project > Brown-on Reset > desabled
-    Lib  Config Note: Enable EEPROM Lib at Library Manager Tab
+   Fuse Config Note: Go to Menu > Edit Project > Brown-on Reset > desabled
+   Lib  Config Note: Enable EEPROM Lib at Library Manager Tab
 
       Author:   microgenios, edited by J3
 
