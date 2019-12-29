@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unit_13_SPI\01_code\unit_15_01_SdCard_SPI.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unit_13_SPI\01_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unit_15_01_SdCard_SPI.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_Conversions.mcl" "__Lib_SPI_c345.mcl" "__Lib_Mmc.mcl" "__Lib_MmcFat16.mcl" "__Lib_MmcFat16Constants.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	unit_15_01_SdCard_SPI.c
+diagnostics: 75	123	Compiled Successfully	unit_15_01_SdCard_SPI.c
+hint: 41	1164	Variable 'fhandle' has been eliminated by optimizer	unit_15_01_SdCard_SPI.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 878 (58%)  Free RAM (bytes): 637 (42%)	Used RAM (bytes): 878 (58%)  Free RAM (bytes): 637 (42%)
+hint: 0	1144	Used ROM (bytes): 10565 (32%)  Free ROM (bytes): 22203 (68%)	Used ROM (bytes): 10565 (32%)  Free ROM (bytes): 22203 (68%)
+diagnostics: 0	125	Project Linked Successfully	unit_15_01_SdCard_SPI.mcppi
+diagnostics: 0	128	Linked in 110 ms	 
+diagnostics: 0	129	Project 'unit_15_01_SdCard_SPI.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 29 dez 2019, 17:51:42	unit_15_01_SdCard_SPI.mcppi

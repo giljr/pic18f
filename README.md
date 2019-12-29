@@ -154,12 +154,18 @@ Welcome!
 [#00_code](unit_12_HLVD/00_code)#picSeries - [**PIC 18 HLVD Hello World**]() - *Saving critical variable at EEPROM via HLVD peripheral* 
 
 [#01_code](unit_12_HLVD/01_code)#picSeries - [**PIC 18 HLVD & 7-SEG Display**]() - *Interfacing EEPROM + 7-Segment Display + HLVD back-up protection* 
+
    
 ##### **Unit - 14 - I2C**
 
 [#01_code](unit_14_I2C/01_code)#picSeries - [**PIC 18 I2C Hello World**](https://medium.com/jungletronics/pic-18-i2c-external-eeprom-3945294faf7f) - *Interfacing external EEPROM with PIC Microcontroller via I2C Protocol* 
  
+ 
+##### **Unit - 13 - SPI**
 
+[#01_code](unit_13_SPI/01_code)#picSeries - [**PIC 18 SPI Hello World**](https://medium.com/jungletronics/pic-18-spi-intro-to-spi-protocol-a2687eba2fd7) - *Interfacing SD Card via SPI Protocol* 
+ 
+ 
 ##### **Unit - 15 - USB**
 
 [#01_code](unit_15_USB/01_code)#picSeries - [**PIC 18 USB Hello World**](https://medium.com/jungletronics/pic-18-usb-intro-f45ebce294a3) - *Interfacing PIC18F4550 via USB Protocol using MS Visual Studio App* 
