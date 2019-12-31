@@ -1,0 +1,6 @@
+main
+	ConfigMCU
+	ConfigInterrupcao_Global
+	Configuracao_Timer1
+	ConfigInterrucao_Compare
+INTERRUPCAO_COMPARE_HIGH

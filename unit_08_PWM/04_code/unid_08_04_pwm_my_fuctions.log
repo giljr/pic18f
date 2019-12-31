@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\giljr\Documents\pic\unid_8_PWM\04_code\unid_08_04_pwm_my_fuctions.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\giljr\Documents\pic\unid_8_PWM\04_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "unid_08_04_pwm_my_fuctions.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CMath.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	unid_08_04_pwm_my_fuctions.c
+diagnostics: 98	123	Compiled Successfully	unid_08_04_pwm_my_fuctions.c
+hint: 10	1164	Variable 'VarAux' has been eliminated by optimizer	unid_08_04_pwm_my_fuctions.c
+hint: 44	1164	Variable 'Aux' has been eliminated by optimizer	unid_08_04_pwm_my_fuctions.c
+hint: 44	1164	Variable 'Tosc' has been eliminated by optimizer	unid_08_04_pwm_my_fuctions.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 18 (1%)  Free RAM (bytes): 1497 (99%)	Used RAM (bytes): 18 (1%)  Free RAM (bytes): 1497 (99%)
+hint: 0	1144	Used ROM (bytes): 4282 (13%)  Free ROM (bytes): 28486 (87%)	Used ROM (bytes): 4282 (13%)  Free ROM (bytes): 28486 (87%)
+diagnostics: 0	125	Project Linked Successfully	unid_08_04_pwm_my_fuctions.mcppi
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'unid_08_04_pwm_my_fuctions.mcppi' completed: 172 ms	 
+diagnostics: 0	103	Finished successfully: 08 nov 2019, 12:18:16	unid_08_04_pwm_my_fuctions.mcppi

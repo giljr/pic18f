@@ -1,0 +1,5 @@
+main
+	ConfigMCU
+	ConfigInterrupcao_Global
+	Configuracao_TMR1
+	ConfigInterrucao_CCP_Compare

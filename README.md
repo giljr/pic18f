@@ -133,6 +133,35 @@ Welcome!
 [#06_code](unit_05_INT/06_code)#picSeries - [**PIC 18 INT IOC**]() - *How to use IOC interruptions w/ PIC18F*  
    
 
+##### **Unit - 06 - CAPTURE**
+
+[#01_code](unit_06_CAPT/01_code)#picSeries - **PIC 18 CAPTURE HOW-TO** - *Do input a signal on RC2 pin to see its rating in microseconds - PIC18F* 
+
+[#02_code](unit_06_CAPT/02_code)#picSeries - **PIC 18 CAPTURE 16th Sampling** - *This capture will take 16 sampling mode - PIC18F* 
+
+[#03_code](unit_06_CAPT/03_code)#picSeries - **PIC 18 CAPTURE Width Calc** - *This capture will calculate pulse width (t1-----w-----t2) PIC18F* 
+
+[#04_code](unit_06_CAPT/04_code)#picSeries - **PIC 18 CAPTURE Duty Calc** - *This capture will calculate DutyCycle - PIC18F* 
+
+
+##### **Unit - 07 - COMPARE**
+
+[#01_code](unit_07_CMPR/01_code)#picSeries - **PIC 18 COMPARE HOW-TO 50 Hz** - *Generate a 50Hz pulse - PIC18F* 
+
+[#02_code](unit_07_CMPR/02_code)#picSeries - **PIC 18 COMPARE HOW-TO 1000 Hz** - *Generate a 1000Hz pulse -  PIC18F* 
+
+
+##### **Unit - 08 - PWM**
+
+[#01_code](unit_08_PWM/01_code)#picSeries - **PIC 18 PWM HOW-TO 4KHz** - *PWM at 4khz@50% - PIC18F* 
+
+[#02_code](unit_08_PWM/02_code)#picSeries - **PIC 18 PWM HOW-TO 10 KHz** - *PWM AT 10khz@25% - PIC18F* 
+
+[#03_code](unit_08_PWM/03_code)#picSeries - **PIC 18 PWM HOW-TO LCD** - *PWM at AN1 printed on LCD - PIC18F* 
+
+[#04_code](unit_08_PWM/04_code)#picSeries - **PIC 18 PWM HOW-TO Custom Fuction** - *PMW myFunction - PIC18F* 
+
+
 ##### **Unit - 10 - 7SEG**
 
 [#00_code](unit_10_7SEG/00_code)#picSeries - [**PIC 18 7SEG First Test**](https://medium.com/jungletronics/pic-18-7seg-hello-world-20b178943706) - *Hello World 7-Segments for PIC18F* 
@@ -154,17 +183,18 @@ Welcome!
 [#00_code](unit_12_HLVD/00_code)#picSeries - [**PIC 18 HLVD Hello World**]() - *Saving critical variable at EEPROM via HLVD peripheral* 
 
 [#01_code](unit_12_HLVD/01_code)#picSeries - [**PIC 18 HLVD & 7-SEG Display**]() - *Interfacing EEPROM + 7-Segment Display + HLVD back-up protection* 
-
    
-##### **Unit - 14 - I2C**
-
-[#01_code](unit_14_I2C/01_code)#picSeries - [**PIC 18 I2C Hello World**](https://medium.com/jungletronics/pic-18-i2c-external-eeprom-3945294faf7f) - *Interfacing external EEPROM with PIC Microcontroller via I2C Protocol* 
- 
  
 ##### **Unit - 13 - SPI**
 
 [#01_code](unit_13_SPI/01_code)#picSeries - [**PIC 18 SPI Hello World**](https://medium.com/jungletronics/pic-18-spi-intro-to-spi-protocol-a2687eba2fd7) - *Interfacing SD Card via SPI Protocol* 
  
+
+##### **Unit - 14 - I2C**
+
+[#01_code](unit_14_I2C/01_code)#picSeries - [**PIC 18 I2C Hello World**](https://medium.com/jungletronics/pic-18-i2c-external-eeprom-3945294faf7f) - *Interfacing external EEPROM with PIC Microcontroller via I2C Protocol* 
+ 
+
  
 ##### **Unit - 15 - USB**
 
