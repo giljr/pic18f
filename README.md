@@ -101,9 +101,9 @@ Welcome!
 
 [#02_code](unit_04_TMR/02_code)#picSeries - [**PIC 18 TMR Timer0 Extended**](https://medium.com/jungletronics/pic-18-tmr0-extended-5s-d5641ae6488b) - *TIMER0 counts at every 5 long seconds*     
 
-[#03_code](unit_04_TMR/03_code)#picSeries - [**PIC 18 TMR Timer0 Counts 'Till Ten**]() - *TIMER0 counts 'till ten*     
+[#03_code](unit_04_TMR/03_code)#picSeries - [**PIC 18 TMR Timer0 Counts 'Till Ten**](https://medium.com/jungletronics/pic-18-tmr-intro-7a0c9123c474) - *TIMER0 counts 'till ten*     
 
-[#04_code](unit_04_TMR/04_code)#picSeries - [**PIC 18 TMR Timer1 Counts 'Till its MAX**]() - *So, what is the max period for Timer1 (@8MHz)?*     
+[#04_code](unit_04_TMR/04_code)#picSeries - [**PIC 18 TMR Timer1 Counts 'Till its MAX**](https://medium.com/jungletronics/pic-18-tmr1-max-counting-dc7559d548cb) - *So, what is the max period for Timer1 (@8MHz)?*     
 
 [#05_code](unit_04_TMR/05_code)#picSeries - [**PIC 18 TMR Timer1 as a Counter**](https://medium.com/jungletronics/pic-18-tmr1-as-counter-5ece125519b) - *TIMER1 AS COUNTER and present results on LCD*     
 
@@ -180,9 +180,9 @@ Welcome!
 
 ##### **Unit - 12 - HLVD**
 
-[#00_code](unit_12_HLVD/00_code)#picSeries - [**PIC 18 HLVD Hello World**]() - *Saving critical variable at EEPROM via HLVD peripheral* 
+[#00_code](unit_12_HLVD/00_code)#picSeries - [**PIC 18 HLVD Hello World**](https://medium.com/jungletronics/pic-18-hlvd-voltage-detection-intro-3311e5e9ff54) - *Saving critical variable at EEPROM via HLVD peripheral* 
 
-[#01_code](unit_12_HLVD/01_code)#picSeries - [**PIC 18 HLVD & 7-SEG Display**]() - *Interfacing EEPROM + 7-Segment Display + HLVD back-up protection* 
+[#01_code](unit_12_HLVD/01_code)#picSeries - [**PIC 18 HLVD & 7-SEG Display**](https://medium.com/jungletronics/pic-18-lcd-intro-c9665f2d99f8) - *Interfacing EEPROM + 7-Segment Display + HLVD back-up protection* 
    
  
 ##### **Unit - 13 - SPI**
