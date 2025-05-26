@@ -9,7 +9,7 @@ You're more then welcome to visit my Web Pages:
 And youtube playlists: [PIC Serie Enjoyment](https://www.youtube.com/playlist?list=PLK3PeNcUzb8TYBUxpC2Y9xaXN0wBSY2e0) or [PicAsm - Assembler Right Now!!!](https://www.youtube.com/playlist?list=PLK3PeNcUzb8TGekGLilHvHcUw2GUAEIjC) 
 
 ### Why PIC? :heart_eyes:
-PIC (usually pronounced as "pick") is a family of microcontrollers made by [Microchip Technolog](https://en.wikipedia.org/wiki/Microchip_Technology).
+PIC (usually pronounced as "pick") is a family of microcontrollers made by [Microchip Technology](https://en.wikipedia.org/wiki/Microchip_Technology).
 In 2000, Microchip introduced the PIC18 architecture. it has proven to be very popular, with a large number of device variants presently in manufacture. C has become the predominant development language.
 
 
@@ -50,7 +50,7 @@ Welcome!
 
 [#06_code](unit_01_IO/06_code)#picSeries - [**PIC 18 IO Double Chasing LEDs**](https://medium.com/jungletronics/pic-18-double-chasing-8276d6a6886b) - *This code deals with bitwise operators o/*    
 
-[#07_code](unit_01_IO/07_code)#picSeries - [**PIC 18 IO Ambulance Light LEDs**](https://medium.com/jungletronics/pic-18-ambulance-light-95e308d395e3x') - *Algorithm for ambulance-like-flashing-light*    
+[#07_code](unit_01_IO/07_code)#picSeries - [**PIC 18 IO Ambulance Light LEDs**](https://medium.com/jungletronics/pic-18-ambulance-light-95e308d395e3) - *Algorithm for ambulance-like-flashing-light*    
 
 [#08_code](unit_01_IO/08_code)#picSeries - [**PIC 18 IO Random Flashing LEDs**](https://medium.com/jungletronics/pic-18-random-flashing-leds-287ce7d4bf7) - *How to generating a random number w/ seed*    
 
